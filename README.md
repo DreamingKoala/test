@@ -4,3 +4,6 @@
 Update
 
 What?
+
+Pull
+Conflict
