@@ -6,3 +6,4 @@ Update
 What?
 
 Pull
+Conflict
